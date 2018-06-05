@@ -59,3 +59,5 @@ Completed 500 Internal Server Error in 17ms (ActiveRecord: 0.0ms)
 Started GET "/hello_world" for 127.0.0.1 at 2018-06-05 02:58:28 +0000
 Processing by StaticController#hello_world as HTML
   Rendered static/hello_world.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 296ms (Views: 287.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
